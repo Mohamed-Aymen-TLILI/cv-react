@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const GridLayout = styled.div`
          display: grid;
          min-height: 100vh;
-         grid: "picture header" auto "aside main" 1fr "footer footer" auto / 350px auto;
+         grid: "picture header" auto "aside main" 1fr "footer footer" auto / 450px auto;
          @media screen and (max-width: 750px) {
            display: grid;
            grid: "header" auto "main" auto "picture" auto "aside" auto "footer" auto / auto;
