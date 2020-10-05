@@ -1,7 +1,7 @@
 {
   "name": "cv-react",
   "version": "0.1.0",
-  "homepage": "http://Mohamed-Aymen-TLILI.github.io/cv-react/cv/",
+  "homepage": "http://Mohamed-Aymen-TLILI.github.io/cv-react/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
