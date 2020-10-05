@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/cv-react/cv/" component={CV} />
+        <Route path="/" component={CV} />
       </Switch>
     </Router>
   );
