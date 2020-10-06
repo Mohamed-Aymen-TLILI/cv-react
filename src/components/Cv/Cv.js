@@ -186,8 +186,7 @@ export default function CV() {
             <Mainexperiencecontenth3>Développeur web</Mainexperiencecontenth3>
             <Mainexperiencecontentp>DisneyLand Paris</Mainexperiencecontentp>
             <Mainexperiencecontentul>
-              - Création d’un site vitrine dédié aux Disney Business - Création
-              d’un site vitrine dédié aux Disney Business - Conception d’une
+              - Conception d’une
               application pour la gestion de réservations Business - Création
               d’un site E-commerce pour les clients Business et VIP -
               Développement des sites en respectant la charte graphique et le
